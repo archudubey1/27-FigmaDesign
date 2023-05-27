@@ -1,0 +1,25 @@
+@media only screen and (max-width:414px) {
+
+    .main {
+        height: auto;
+
+    }
+
+    .text h1 {
+        margin-left: 0px;
+        margin-top: 28px;
+        text-align: center;
+    }
+
+    .card {
+        margin-left: 38px;
+    }
+
+    .form {
+        position: unset;
+        margin-top: 434px;
+    }
+    .chield{
+        margin-right: -91px;
+    }
+}
